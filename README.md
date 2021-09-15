@@ -1,2 +1,2 @@
-# TechBlog
+# Hotel
 css/html
